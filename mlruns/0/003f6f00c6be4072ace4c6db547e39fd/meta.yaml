@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Chest-Cancer-Classification-using-MLflow-DVC/mlruns/0/003f6f00c6be4072ace4c6db547e39fd/artifacts
+end_time: 1721438333068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 003f6f00c6be4072ace4c6db547e39fd
+run_name: persistent-duck-701
+run_uuid: 003f6f00c6be4072ace4c6db547e39fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721438332895
+status: 4
+tags: []
+user_id: ESWAR
